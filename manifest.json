@@ -1,0 +1,16 @@
+{
+ "name": "NCI Orders",
+ "short_name": "NCI Orders",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#0d5f6b",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  }
+ ]
+}
